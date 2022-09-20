@@ -1,1 +1,1 @@
-# nuxt-login
+# nuxt-login Auth
